@@ -4,8 +4,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Setup
 
-1. Run `bundle install` to install dependencies
-2. Run `bin/rails s -b 0.0.0.0` to start the server
+1. Fork & Clone
+2. Run `bundle install` to install dependencie
+3. Run `bin/rails s -b 0.0.0.0` to start the server
 
 ## Dependencies
 
